@@ -1,0 +1,40 @@
+# Ignorar el entorno virtual
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Ignorar archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorar archivos y carpetas de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar archivos de configuración de PyCharm
+.idea/
+
+# Ignorar archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de datos si no deseas subirlos al repositorio
+data/*.csv
+
+# Ignorar los modelos entrenados y archivos grandes
+models/
+*.h5
+*.pickle
+*.pkl
+
+# Ignorar archivos de configuración de la terminal de Jupyter
+.ipython/
+.jupyter/
+
+# Ignorar archivos de configuración de VSCode si utilizas ese editor también
+.vscode/
