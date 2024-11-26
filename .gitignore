@@ -27,10 +27,10 @@ Thumbs.db
 data/*.csv
 
 # Ignorar los modelos entrenados y archivos grandes
-models/
+
 *.h5
 *.pickle
-*.pkl
+
 
 # Ignorar archivos de configuración de la terminal de Jupyter
 .ipython/
