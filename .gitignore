@@ -24,7 +24,7 @@ Thumbs.db
 *.log
 
 # Ignorar archivos de datos si no deseas subirlos al repositorio
-data/*.csv
+#data/*.csv
 
 # Ignorar los modelos entrenados y archivos grandes
 
